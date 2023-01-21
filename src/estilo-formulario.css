@@ -1,0 +1,87 @@
+#caja1{
+    float:left;
+    }
+#caja2{
+    float:left;
+    margin: 0px 0px 0px 10px;
+    }
+#caja3{
+        clear:both;
+    }
+.inp1{
+    border-radius: 5px;
+    width: 400px;
+    height: 30px;
+    margin: 10px 0px 0px 0;
+}
+.largo{
+    width: 815px;
+}
+
+.zip{
+    width: 140px;
+}
+
+label{
+	font-size: 0.8em;
+	font-family: sans-serif;
+	color: #333;
+}
+
+select{
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem 1.75rem .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    vertical-align: middle;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+   width: 250px;
+    margin: 10px 0px 0px 0;
+    max-width: 100%; 
+    border-radius: 5px;
+
+}
+
+.button {
+    background-color: #008CBA;
+     
+    border-radius: 5px;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.errores{
+    font-size: 0.6em;
+	font-family: sans-serif;
+	color: red;
+}
+
+.errorborde { 
+    border:2px solid red; 
+}
+
+.ocultar_modal{
+    display: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
